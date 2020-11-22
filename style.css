@@ -1,0 +1,111 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background: lightgray;
+}
+#project{
+    height: 59px;
+    background-color: #ffffff;
+    color: #ffff;
+    padding:0 50px;
+    position: relative;
+    z-index: 1;
+}
+#project .menuleft a{
+    font-size: 20px;
+    float: left;
+    text-decoration: none;
+    padding: 20px 10px 0;
+    color: black;
+}
+#project .menuright a{
+    font-size: 20px;
+    float: right;
+    text-decoration: none;
+    color: black;
+    padding: 20px 40px 0;
+}
+#secondphase{
+    background-color: rgb(13, 0, 31);
+    padding-top: 150px;
+    height: 310px;
+    
+}
+#secondphase div img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 7%;
+    border-radius: 50%;
+   padding-top: 0px;
+   margin-top: -130px;
+}
+#secondphase .head1{
+    color: rgb(196, 192, 243);
+    text-align: center;
+    padding-top: 10px;
+    font-size: 16px;
+}
+#secondphase .head1 h3{
+    color: rgb(196, 192, 243);
+    text-align: center;
+    font-size: 16px;
+}
+#secondphase .head1 h1{
+    font-size: 25px !important;
+}
+.head2 h1{
+    color: rgb(9, 255, 91);
+    text-align: center;
+    padding-top: 19px;
+    font-size: 33px;
+}
+.head2 p{
+    color: rgb(196, 192, 243);
+    text-align: center;
+    font-size: 19px;
+}
+#thirdphase{
+    background-image: url(./img/coffee2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 1px;
+    height: 600px;
+    box-shadow: 0 0 15px #c09494;
+}
+#thirdphase div h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 29px;
+    font-size: 33px;
+}
+#thirdphase div p{
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 35px;
+}
+#forthphase{
+    background-image: url(./img/pastre2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 1px;
+    height: 600px;
+    box-shadow: 0 0 5px #c09494;
+}
+#forthphase div h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 29px;
+    font-size: 33px;
+}
+#forthphase div p{
+    padding: 10px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 16px;
+    line-height: 35px;
+}
