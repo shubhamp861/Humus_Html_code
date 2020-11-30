@@ -362,3 +362,337 @@ hr{
     width: 22%;
     background-color: rgb(0, 255, 76);
     border: none;
+}
+.prod1{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img1{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate1{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate1 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod2{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img2{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate2{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate2 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod3{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img3{
+    width: 80px;
+    padding-top: 250px;
+}
+.rate3{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate3 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod4{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img4{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate4{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate4 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod5{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img5{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate5{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate5 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod6{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img6{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate6{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate6 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod7{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img7{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate7{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate7 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod8{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img8{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate8{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate8 a p{
+    text-decoration: none;
+    color: black;
+}
+.prod9{
+    background-color: wheat;
+    margin: 40px;
+    text-align: center;
+    height: 800px;
+}
+#fortphase i .img9{
+    width: 300px;
+    padding-top: 250px;
+}
+.rate9{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.rate9 a p{
+    text-decoration: none;
+    color: black;
+}
+.loadbtn{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+#fortphase .button2{
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+    padding: 10px 45px 10px 45px;
+    border: 1px solid black;
+}
+#fiftphase{
+    padding: 40px; 
+}
+#fiftphase .tastebud{
+    background-image: url(./img/tastebud.jpg);
+    opacity: 0.84;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 700px;
+    box-shadow: 5px 5px 5px #888888;
+}
+#fiftphase .tastebud h1{
+    color: rgb(22, 0, 17);
+    padding: 250px 30px;
+    font-size: 50px;
+    font-weight: 15px;
+}
+#fiftphase .tastebud p{
+    color: rgba(255, 255, 255, 0.616);
+    padding: 0px 32px;
+    font-size: 35px;
+    margin-top: -230px;
+    font-weight: lighter;
+}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 100%;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+  text-align: center;
+  background-color: cornsilk;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #000000;
+  font-size: 15px;
+  padding: 50px 12px;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+#seventphase{
+    padding: 180px 20px 50px 20px ;
+}
+
+#seventphase .seventhead h1{
+    font-size: 50px;
+    padding: 40px 0 30px 20px;
+    color: rgb(22, 0, 17);
+}
+#seventphase .seventhead p{
+    font-size: 16px;
+    padding: 20px 0 0 20px;
+}
+#eigteenphase{
+    padding-top: 80px;
+    background-color: rgba(218, 218, 218, 0.671);
+    text-align: center;
+    color: rgb(22, 0, 17);
+}
+
+#nintphase h1{
+    text-align: center;
+    padding-top: 80px;
+    color: rgb(22, 0, 17);
+}
+html.body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
